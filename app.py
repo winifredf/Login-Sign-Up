@@ -1,0 +1,1 @@
+print("Welcome! Please create an account. If you are a returning user, go to login to enter username and password.")
